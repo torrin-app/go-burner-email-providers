@@ -8773,7 +8773,6 @@ var domains = map[string]struct{}{
 	"forumbens.xyz": {},
 	"forward.cat": {},
 	"forward4families.org": {},
-	"forwardemail.net": {},
 	"foshata.com": {},
 	"fosil.pro": {},
 	"foster137.store": {},
